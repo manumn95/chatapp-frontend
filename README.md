@@ -2,6 +2,8 @@
 
 A modern chat application built with React, Redux, and Axios, featuring user profile management and real-time updates.
 
+## Live
+https://chatapp-frontend-ten-jade.vercel.app/
 
 ### Screenshots
 
