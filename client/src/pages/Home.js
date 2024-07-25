@@ -28,7 +28,6 @@ const Home = () => {
             dispatch(logout())
             navigate("/email")
         }
-        console.log("current user Details",response)
     } catch (error) {
         console.log("error",error)
     }
